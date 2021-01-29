@@ -5,7 +5,7 @@ Chicken 65 is a **classic poultry** dish with origins in Chennai, India. It cons
 
 ***
 
-# SHOPING FOR BASIC NEEDS
+# SHOPPING FOR BASIC NEEDS
 1. Go to hyvee store by bookig a cab
 2. start finding groceries and pick
      1. onions
