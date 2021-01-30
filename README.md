@@ -66,7 +66,25 @@ This mountainous region located in the Jammu and Kashmir area extends beyond the
 >"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
 *Albert Einstein*
 
+# Language
+>GDScript is a high-level, dynamically typed programming language used to create content. It uses a syntax similar to Python (blocks are indent-based and many keywords are similar). Its goal is to be optimized for and tightly integrated with Godot Engine, allowing great flexibility for content creation and integration.
 
+Quick Link <https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html>
+
+```
+
+class_name Item
+
+class_name Inventory
+
+func add(reference : Item, amount : int = 1):
+	var item = find_item(reference)
+	if not item:
+		item = _instance_item_from_db(reference)
+	item.amount += amount
+
+```
+Quick Link <https://www.gdquest.com/tutorial/godot/gdscript/typed-gdscript/>
 
 
 
