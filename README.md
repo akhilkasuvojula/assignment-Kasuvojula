@@ -22,3 +22,17 @@ Chicken 65 is a **classic poultry** dish with origins in Chennai, India. It cons
      * bowl
 
 [My Bio](https://github.com/akhilkasuvojula/assignment2-Kasuvojula/blob/main/AboutMe.md)
+
+
+***
+
+# Recommeded favourite places to vist
+
+1. ## Statue of Unity
+The world’s tallest statue has been completed in Gujarat, India. Standing almost 600 feet tall, the Statue of Unity depicts Indian freedom fighter and politician Sardar Vallabhbhai Patel, one of the most prominent leaders of the Indian independence movement, and the first Deputy Prime Minister of India.
+
+| LOCATION | SPENDING HOURS | Price |
+| --- | ---------- | -------|
+| Gujarat | 3 hours | RS.1500 |
+
+
