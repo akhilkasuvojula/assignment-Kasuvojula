@@ -57,6 +57,15 @@ This mountainous region located in the Jammu and Kashmir area extends beyond the
 | Karnataka | 3 hours | RS.1500 |
 
 
+***
+
+>"You have to dream before your dreams can come true."
+*A. P. J. Abdul Kalam*
+
+>"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."
+*Albert Einstein*
+
+
 
 
 
