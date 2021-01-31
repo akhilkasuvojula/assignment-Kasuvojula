@@ -8,18 +8,21 @@ Chicken 65 is a **classic poultry** dish with origins in Chennai, India. It cons
 # SHOPPING FOR BASIC NEEDS
 1. Go to hyvee store by booking a cab
 2. start finding groceries and pick
-3. Go to the billing counter
-4. barcode with every product
-5. pay the bill
-6. book a cab
-7. come back to home
+3. List of items
+     1. onions
+     2. carrot
+     3. knife
+     4. rice cooker
+     5. bowl
+4. Go to the billing counter
+5. barcode with every product
+6. pay the bill
+7. book a cab
+8. come back to home
+
 *  place all the groceries in kitchen
-* List of items
-     * onions
-     * carrot
-     * knife
-     * rice cooker
-     * bowl
+*  Arange all the items properly
+*  wash your hands.
 
 [My Bio](https://github.com/akhilkasuvojula/assignment2-Kasuvojula/blob/main/AboutMe.md)
 
