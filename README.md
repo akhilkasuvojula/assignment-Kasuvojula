@@ -38,6 +38,7 @@ The world’s tallest statue has been completed in Gujarat, India. Standing almo
 | --- | ---------- | -------|
 | Gujarat | 3 hours | RS.1500 |
 
+![statueofunity](Images/statueofunity.jpg)
 2. ## Hawa Mahal
 Hawa Mahal is a palace in Jaipur, India approximately 300 kilometers from the capital city of Delhi. Built from red and pink sandstone, the palace sits on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.
 
@@ -45,6 +46,7 @@ Hawa Mahal is a palace in Jaipur, India approximately 300 kilometers from the ca
 | --- | ---------- | -------|
 | Jaipur | 2 hours | RS.1000 |
 
+![hawamahal](Images/hawamahal.png)
 3. ## Leh-Ladakh
 This mountainous region located in the Jammu and Kashmir area extends beyond the Himalaya and features breathtaking landscapes and picture-perfect Tibetan Buddhist monasteries. Also known as the “Land of High Passes”, this high-altitude destination is home to mostly Tibetans who are largely self-sufficient in food and fuel.
 
@@ -52,6 +54,7 @@ This mountainous region located in the Jammu and Kashmir area extends beyond the
 | --- | ---------- | -------|
 | Ladakh | 5 hours | RS.2500 |
 
+![lehladakh](Images/lehladakh.jpg)
 4. ## Hampi
  Hampi is like discovering a fantasy land in a far-off place. A landscape dotted with giant boulders, hills, and ancient ruins juxtaposed by lush palm groves, paddy fields, and banana plantations create a destination that’s popular for those looking for something offbeat. For backpackers and seasoned travelers, this is easily one of the best places to visit in India. 
 
@@ -59,6 +62,7 @@ This mountainous region located in the Jammu and Kashmir area extends beyond the
 | --- | ---------- | -------|
 | Karnataka | 3 hours | RS.1500 |
 
+![hampi](Images/Hampi.jpg)
 
 ***
 
